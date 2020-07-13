@@ -1,4 +1,4 @@
-In this code, you will learn how to remove special characters.
+#In this code, you will learn how to remove special characters.
 
 #1 == make the function
 
@@ -26,6 +26,8 @@ In this code, you will learn how to remove special characters.
 
 
 
+
+# HERE IS THE SAMPLE CODE FOR THE TASK
 def remove_special_characters(txt):
   special = set("!@#$%^&\'*().[]{}<>+=~,`|?")
   output = ''
