@@ -15,8 +15,8 @@
 #4 == make the for loop
       
        for char in txt:
-    if char not in special:
-      output += char
+            if char not in special:
+                  output += char
  
  #5 == return the output
  
