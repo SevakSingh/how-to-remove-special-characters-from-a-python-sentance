@@ -24,6 +24,7 @@
  
  #6 == You are done!!!
 
+      #YOU SHOULD GET A PYTHON SENTANCE WITHOUT ANY SPECIAL CHARACTERS. 
 
 
 
